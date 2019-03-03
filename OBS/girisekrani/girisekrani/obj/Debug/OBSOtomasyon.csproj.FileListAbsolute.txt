@@ -1,0 +1,156 @@
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe.config
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.pdb
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.Properties.Resources.resources
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.GenerateResource.Cache
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.exe
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.pdb
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.GirisEkrani.resources
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.KayitOl.resources
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciAnaMenu.resources
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenAnaMenu.resources
+C:\Users\badgo\Desktop\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenBilgiPanel.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.GirisEkrani.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.KayitOl.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciAnaMenu.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenAnaMenu.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenBilgiPanel.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.Properties.Resources.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.GenerateResource.Cache
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.exe
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.pdb
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe.config
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.pdb
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenNotGir.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciDersProgrami.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciGoster.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.ProgramHakkinda.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDevamsizlik.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciEkleme.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciOgretmenListesi.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersListele.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciNotGoruntule.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciDevamsizlikGoruntule.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciKayit.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenKayit.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciGirisEkrani.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenGirisEkrani.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.SecimEkrani.resources
+C:\Users\badgo\Desktop\OTOMASYONLAR\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersEkleme.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe.config
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.pdb
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciAnaMenu.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciGirisEkrani.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciKayit.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciNotGoruntule.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciOgretmenListesi.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenAnaMenu.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenBilgiPanel.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersEkleme.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersListele.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDevamsizlik.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenGirisEkrani.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenKayit.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenNotGir.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciEkleme.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciGoster.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.ProgramHakkinda.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.Properties.Resources.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.SecimEkrani.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.GenerateResource.Cache
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.exe
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.pdb
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciBilgiPanel.resources
+C:\Users\badgo\Desktop\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciDevamsizlik.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe.config
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.pdb
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csprojAssemblyReference.cache
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciAnaMenu.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciBilgiPanel.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciDevamsizlik.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciGirisEkrani.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciKayit.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciNotGoruntule.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciOgretmenListesi.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenAnaMenu.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenBilgiPanel.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersEkleme.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersListele.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDevamsizlik.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenGirisEkrani.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenKayit.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenNotGir.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciEkleme.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciGoster.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.ProgramHakkinda.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.Properties.Resources.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.SecimEkrani.resources
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.GenerateResource.cache
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.CoreCompileInputs.cache
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.exe
+D:\Batu\2018-Otomasyonlar-C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.pdb
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe.config
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.exe
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\bin\Debug\girisekrani.pdb
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csprojAssemblyReference.cache
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciAnaMenu.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciBilgiPanel.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciDevamsizlik.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciGirisEkrani.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciKayit.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciNotGoruntule.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciOgretmenListesi.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenAnaMenu.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenBilgiPanel.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersEkleme.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersListele.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDevamsizlik.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenGirisEkrani.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenKayit.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenNotGir.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciEkleme.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciGoster.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.ProgramHakkinda.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.Properties.Resources.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.SecimEkrani.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.GenerateResource.cache
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.CoreCompileInputs.cache
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.exe
+D:\Batu\Batu - Bilgisayar Mühendisliği\C#\OBSOtomasyon2018\girisekrani\girisekrani\obj\Debug\girisekrani.pdb
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\bin\Debug\girisekrani.exe.config
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\bin\Debug\girisekrani.exe
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\bin\Debug\girisekrani.pdb
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csprojAssemblyReference.cache
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciAnaMenu.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciBilgiPanel.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciDevamsizlik.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciGirisEkrani.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciKayit.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciNotGoruntule.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgrenciOgretmenListesi.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenAnaMenu.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenBilgiPanel.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersEkleme.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDersListele.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenDevamsizlik.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenGirisEkrani.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenKayit.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenNotGir.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciEkleme.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.OgretmenOgrenciGoster.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.ProgramHakkinda.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.Properties.Resources.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.SecimEkrani.resources
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.GenerateResource.cache
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\OBSOtomasyon.csproj.CoreCompileInputs.cache
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.exe
+D:\Batu\Batu - Bilgisayar Mühendisliği\GitHub Batuhan\C-Sharp\OBS\girisekrani\girisekrani\obj\Debug\girisekrani.pdb
